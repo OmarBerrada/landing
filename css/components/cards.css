@@ -1,0 +1,75 @@
+/*CARDS ###################################*/
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card-1 {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card-1 img {
+  width: 150px;
+}
+
+.card-1 h1 {
+  font-size: 17px
+}
+
+.card-1 p {
+  opacity: .5;
+}
+
+/*#################*/
+
+.card-2 {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card-2 img {
+  width: 150px;
+}
+
+.card-2 h1 {
+  font-size: 17px
+}
+
+.card-2 p {
+  opacity: .5;
+}
+
+/*#################*/
+
+.card-3 {
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(230,230,230);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(230,230,230);
+}
+
+.card-3 img {
+    width: 150px;
+}
+
+.card-3 h1 {
+  font-size: 17px
+}
+
+.card-3 p {
+  opacity: .5;
+}
+
